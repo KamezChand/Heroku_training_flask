@@ -1,7 +1,2 @@
 Flask
 gunicorn
-werkzeug
-numpy
-keras
-tensorflow
-PIL
